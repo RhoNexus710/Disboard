@@ -1,0 +1,196 @@
+{
+  "sourceImage": "C:\\Users\\fdeca\\Downloads\\ChatGPT Image Jul 3, 2026, 12_18_45 AM.png",
+  "sourceSize": {
+    "width": 1448,
+    "height": 1086
+  },
+  "tileGrid": {
+    "columns": 4,
+    "rows": 3,
+    "tileWidth": 362,
+    "tileHeight": 362
+  },
+  "gridNote": "The source map is a 20x15 visible grid. Each exported tile is a 5x5-grid-square region image.",
+  "tiles": [
+    {
+      "row": 0,
+      "col": 0,
+      "x": -2,
+      "y": 1,
+      "region": "Lucia Highlands",
+      "file": "tile_r1_c1_lucia_highlands.png",
+      "cropBox": {
+        "left": 0,
+        "top": 0,
+        "right": 362,
+        "bottom": 362
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "x": -1,
+      "y": 1,
+      "region": "Arena Continent",
+      "file": "tile_r1_c2_arena_continent.png",
+      "cropBox": {
+        "left": 362,
+        "top": 0,
+        "right": 724,
+        "bottom": 362
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 0,
+      "col": 2,
+      "x": 0,
+      "y": 1,
+      "region": "Valar Snowlands",
+      "file": "tile_r1_c3_valar_snowlands.png",
+      "cropBox": {
+        "left": 724,
+        "top": 0,
+        "right": 1086,
+        "bottom": 362
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 0,
+      "col": 3,
+      "x": 1,
+      "y": 1,
+      "region": "Avant Heim Isles",
+      "file": "tile_r1_c4_avant_heim_isles.png",
+      "cropBox": {
+        "left": 1086,
+        "top": 0,
+        "right": 1448,
+        "bottom": 362
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 1,
+      "col": 0,
+      "x": -2,
+      "y": 0,
+      "region": "Western Wrecklands",
+      "file": "tile_r2_c1_western_wrecklands.png",
+      "cropBox": {
+        "left": 0,
+        "top": 362,
+        "right": 362,
+        "bottom": 724
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "x": -1,
+      "y": 0,
+      "region": "Sea of White Archipelago",
+      "file": "tile_r2_c2_sea_of_white_archipelago.png",
+      "cropBox": {
+        "left": 362,
+        "top": 362,
+        "right": 724,
+        "bottom": 724
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "x": 0,
+      "y": 0,
+      "region": "Sea of West Current",
+      "file": "tile_r2_c3_sea_of_west_current.png",
+      "cropBox": {
+        "left": 724,
+        "top": 362,
+        "right": 1086,
+        "bottom": 724
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "x": 1,
+      "y": 0,
+      "region": "Beginning Circle Coast",
+      "file": "tile_r2_c4_beginning_circle_coast.png",
+      "cropBox": {
+        "left": 1086,
+        "top": 362,
+        "right": 1448,
+        "bottom": 724
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 2,
+      "col": 0,
+      "x": -2,
+      "y": -1,
+      "region": "Southern Outer Isles",
+      "file": "tile_r3_c1_southern_outer_isles.png",
+      "cropBox": {
+        "left": 0,
+        "top": 724,
+        "right": 362,
+        "bottom": 1086
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 2,
+      "col": 1,
+      "x": -1,
+      "y": -1,
+      "region": "Antarctic Whale Road",
+      "file": "tile_r3_c2_antarctic_whale_road.png",
+      "cropBox": {
+        "left": 362,
+        "top": 724,
+        "right": 724,
+        "bottom": 1086
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "x": 0,
+      "y": -1,
+      "region": "Thrymr Gap Redlands",
+      "file": "tile_r3_c3_thrymr_gap_redlands.png",
+      "cropBox": {
+        "left": 724,
+        "top": 724,
+        "right": 1086,
+        "bottom": 1086
+      },
+      "imageUrl": ""
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "x": 1,
+      "y": -1,
+      "region": "Dwarven Redlands",
+      "file": "tile_r3_c4_dwarven_redlands.png",
+      "cropBox": {
+        "left": 1086,
+        "top": 724,
+        "right": 1448,
+        "bottom": 1086
+      },
+      "imageUrl": ""
+    }
+  ]
+}

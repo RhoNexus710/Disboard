@@ -1,0 +1,74 @@
+{
+  "Lucia Highlands": {
+    "x": -2,
+    "y": 1,
+    "imageUrl": "",
+    "tileFile": "tile_r1_c1_lucia_highlands.png"
+  },
+  "Arena Continent": {
+    "x": -1,
+    "y": 1,
+    "imageUrl": "",
+    "tileFile": "tile_r1_c2_arena_continent.png"
+  },
+  "Valar Snowlands": {
+    "x": 0,
+    "y": 1,
+    "imageUrl": "",
+    "tileFile": "tile_r1_c3_valar_snowlands.png"
+  },
+  "Avant Heim Isles": {
+    "x": 1,
+    "y": 1,
+    "imageUrl": "",
+    "tileFile": "tile_r1_c4_avant_heim_isles.png"
+  },
+  "Western Wrecklands": {
+    "x": -2,
+    "y": 0,
+    "imageUrl": "",
+    "tileFile": "tile_r2_c1_western_wrecklands.png"
+  },
+  "Sea of White Archipelago": {
+    "x": -1,
+    "y": 0,
+    "imageUrl": "",
+    "tileFile": "tile_r2_c2_sea_of_white_archipelago.png"
+  },
+  "Sea of West Current": {
+    "x": 0,
+    "y": 0,
+    "imageUrl": "",
+    "tileFile": "tile_r2_c3_sea_of_west_current.png"
+  },
+  "Beginning Circle Coast": {
+    "x": 1,
+    "y": 0,
+    "imageUrl": "",
+    "tileFile": "tile_r2_c4_beginning_circle_coast.png"
+  },
+  "Southern Outer Isles": {
+    "x": -2,
+    "y": -1,
+    "imageUrl": "",
+    "tileFile": "tile_r3_c1_southern_outer_isles.png"
+  },
+  "Antarctic Whale Road": {
+    "x": -1,
+    "y": -1,
+    "imageUrl": "",
+    "tileFile": "tile_r3_c2_antarctic_whale_road.png"
+  },
+  "Thrymr Gap Redlands": {
+    "x": 0,
+    "y": -1,
+    "imageUrl": "",
+    "tileFile": "tile_r3_c3_thrymr_gap_redlands.png"
+  },
+  "Dwarven Redlands": {
+    "x": 1,
+    "y": -1,
+    "imageUrl": "",
+    "tileFile": "tile_r3_c4_dwarven_redlands.png"
+  }
+}
